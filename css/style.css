@@ -55,11 +55,12 @@ nav     {
   width: 50%;
   display: inline-block;
   text-align: right;
+float: right;
   
 }
 nav ul   {
   list-style: cross-fade();
-  margin: 5;
+  margin: 7%;
 }
 nav ul li {
   display: inline-block;
