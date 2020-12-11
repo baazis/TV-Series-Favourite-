@@ -24,6 +24,8 @@ header   {
   background-repeat: round;
   background-clip: border-box;
   padding: 15px 150px;
+
+
   
 }
 
@@ -105,9 +107,10 @@ nav ul li a:hover   {
   color: #FFF;
   padding-top: 40px;
 }
+
 .hero-content h1   {
   font-size: 75px;
-  margin: 01;
+  margin: 1;
 }
 .hero-content p    {
   font-size: 40px;
